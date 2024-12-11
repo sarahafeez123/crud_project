@@ -1,2 +1,2 @@
-# gitproject
+# git_project
 #
